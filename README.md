@@ -1,3 +1,3 @@
 # Baseball-with-python
-Nama : Dimas Aji Setiawan
-NIM : 1700018003
+<p>Nama : Dimas Aji Setiawan</p>
+<p>NIM : 1700018003</p>
