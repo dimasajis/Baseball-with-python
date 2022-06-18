@@ -1,3 +1,3 @@
 # Baseball-with-python
-<p>Task/p>
+<p>Task
 
